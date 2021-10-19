@@ -6,3 +6,4 @@ This repo aims to reproduce the swagger nested object bug
 
 - `npm i`
 - `npm start`
+- Go to `http://localhost:8888/api` then go to `schema`
