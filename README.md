@@ -4,5 +4,5 @@ This repo aims to reproduce the swagger nested object bug
 
 ### Run
 
-- npm i
-- npm start
+- `npm i`
+- `npm start`
